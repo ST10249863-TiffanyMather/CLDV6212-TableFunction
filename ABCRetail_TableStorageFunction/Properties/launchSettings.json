@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ABCRetail_TableStorageFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7278",
+      "launchBrowser": false
+    }
+  }
+}
